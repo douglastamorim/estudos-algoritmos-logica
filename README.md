@@ -9,7 +9,7 @@
 - Git e GitHub
 - Tecnologia da Informação
 - c
-- JavaScript
+  
 
 ## 🎯 Objetivo
 
