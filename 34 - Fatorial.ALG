@@ -1,14 +1,14 @@
-Algoritmo "semnome"
+Algoritmo "Fatorial"
 
 Var
-   a, N, i, f: inteiro
+   N, i, f: inteiro
 Inicio
      escreva("Digite um valor ")
      leia(N)
-     a <- N
-     para i de a ate 1 passo -1  faca
+     f <- 1
+     para i de 1 ate N faca
      
-          f < - N * i
+          f <- f * i
      fimpara
-
+     escreva ("Fatorial = ",f)
 Fimalgoritmo
