@@ -23,5 +23,5 @@ inicio
       escreval
       
       media <- (Idade1 + Idade2) / 2
-      Escreval (" A idade média de ",Nome1, " e ",Nome2, "é de ",media:4:1, " anos")
+      Escreval (" A idade mÃ©dia de ",Nome1, " e ",Nome2, "Ã© de ",media:4:1, " anos")
 fimalgoritmo
