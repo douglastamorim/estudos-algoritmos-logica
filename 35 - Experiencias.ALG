@@ -1,4 +1,4 @@
-Algoritmo "Exeperiencia"
+Algoritmo "Experiencias"
 
 var
     i, N, quantidade, Tcobaias, totalC, totalR, totalS: inteiro
@@ -19,7 +19,7 @@ inicio
         Escreva("Tipo de cobaia: ")
         Leia(tipoCobaia)
         
-        // ValidaÁ„o da entrada: repete enquanto o tipo for inv·lido
+        // Valida√ß√£o da entrada: repete enquanto o tipo for inv√°lido
         enquanto (tipoCobaia <> "c") e (tipoCobaia <> "C") e (tipoCobaia <> "r") e (tipoCobaia <> "R") e (tipoCobaia <> "s") e (tipoCobaia <> "S") faca
             Escreva("Tipo de Cobaia Invalido. Digite novamente (C/R/S): ")
             Leia(tipoCobaia)
@@ -40,12 +40,12 @@ inicio
      
     Tcobaias <- totalC + totalR + totalS
     
-    // como estava no comeÁo
+    // como estava no come√ßo
    // percentualS <- totalS / Tcobaias * 100
    // percentualR <- totalR / Tcobaias * 100
    // percentualC <- totalC / Tcobaias * 100
    
-   // Evita erro de divis„o por zero caso o total de cobaias seja 0
+   // Evita erro de divis√£o por zero caso o total de cobaias seja 0
     se Tcobaias > 0 entao
         percentualC <- (totalC / Tcobaias) * 100
         percentualR <- (totalR / Tcobaias) * 100
@@ -56,7 +56,7 @@ inicio
         percentualS <- 0
     fimse
     
-    Escreval("RealatÛrio Final: ")
+    Escreval("Realat√≥rio Final: ")
     Escreval("Total: ",Tcobaias," cobaias: ")
     Escreval("Total de coelhos: ",totalC)
     Escreval("Total de ratos: ",totalR)
