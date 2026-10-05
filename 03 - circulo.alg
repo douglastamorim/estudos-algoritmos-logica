@@ -10,7 +10,7 @@ inicio
       
       area <- pi * (r * r)
       
-      escreval ("Area é ",area:7:3)
+      escreval ("Area Ã© ",area:7:3)
 
 
 fimalgoritmo
