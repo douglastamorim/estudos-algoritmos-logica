@@ -1,2 +1,17 @@
-# projetos-estudos
-Projetos, exercícios e estudos desenvolvidos durante minha formação em Análise e Desenvolvimento de Sistemas e cursos complementares.
+# Olá! Eu sou Douglas 👋
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Estudando programação e desenvolvimento de software
+
+## 📚 Atualmente estudando
+
+- Algoritmos e Lógica de Programação
+- Git e GitHub
+- Tecnologia da Informação
+- c
+- JavaScript
+
+## 🎯 Objetivo
+
+Desenvolver minhas habilidades em programação e construir
+projetos para meu portfólio profissional.
