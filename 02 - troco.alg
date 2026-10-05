@@ -4,7 +4,7 @@ var
    preco, dinheiro , troco: real
    quant: inteiro
 inicio
-      escreval("Qual o preço do produto: ")
+      escreval("Qual o preÃ§o do produto: ")
       leia(preco)
       escreval("Quantos produtos: ")
       leia(quant)
@@ -13,5 +13,5 @@ inicio
       
       troco <- dinheiro - preco * quant
       
-      escreval("O troco é de ",troco:6:2)
+      escreval("O troco Ã© de ",troco:6:2)
 fimalgoritmo
