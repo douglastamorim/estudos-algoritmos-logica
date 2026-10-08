@@ -1,4 +1,4 @@
-algoritmo "somaDosImpares"
+algoritmo "somadosImpares"
 
 var
      x, y, i, troca, soma: inteiro
