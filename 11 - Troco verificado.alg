@@ -5,7 +5,7 @@ var
     quantidade : inteiro
 inicio
 
-      Escreval("PreÁo unit·rio do produto: ")
+      Escreval("Pre√ßo unit√°rio do produto: ")
       leia(valorProduto)
       Escreval ("Quantidade comprada")
       leia(quantidade)
