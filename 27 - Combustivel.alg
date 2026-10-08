@@ -1,5 +1,5 @@
-algoritmo "COMBUSTIVEL"
-// Disciplina   : [Linguagem e Lógica de Programação] 
+algoritmo "Combustivel"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
 // Professor   : Antonio Carlos Nicolodi 
 
 var
