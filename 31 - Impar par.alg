@@ -32,7 +32,7 @@ Inicio
        //   escreval("Nulo")
        // SENAO
        //    se x % 2 = 0 entao  // //aqui verifica se o numero e par ou impar
-       //       se x < 0 entao   // //aqui se é positivo ou negativo
+       //       se x < 0 entao   // //aqui se Ã© positivo ou negativo
        //         escreval("Par Negativo")
        //       senao
        //         escreval("Par Positivo")
