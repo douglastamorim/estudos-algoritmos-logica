@@ -1,4 +1,4 @@
-algoritmo "QUADRANTE2"
+algoritmo "Quadrante"
 
 var
      x,y : inteiro
